@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 📫 How to reach me **bishakhabaisya09@gmail.com**
+- 📫 How to reach me **baisyabishakha@gmail.com**
 
 - ⚡ Fun fact **More Repositories than Stars in the Sky**
 
