@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishakhab09&label=Profile%20views&color=0e75b6&style=flat" alt="bishakhab09" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Java Development**
 
 - 📫 How to reach me **baisyabishakha@gmail.com**
 
